@@ -1,0 +1,20 @@
+//-----------------------------------------------------------------------------
+// Ari Iramanesh
+// airanman, 1628897
+// pa4: Breadth First Search and Shortest Paths in Graphs
+// cmps101, spring 2019
+//
+// README
+//-----------------------------------------------------------------------------
+
+Project description: implement graphs and a breadth first search algorithm using the graph ADT. Also, create FindPath, a function that takes an input file that instructs graph construction and which paths to search for, and puts the results in an output file.
+
+files:
+List.c - implements what's in List.h
+List.h - defines  List ADT and prototypes its functions
+Graph.c - implements what's in Graph.h
+Graph.h - defines the Graph ADT and prototypes its functions
+GraphTest.c - test Graph functionality
+FindPath.c - the function specified above
+Makefile - compiles project
+README - describes project

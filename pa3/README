@@ -1,0 +1,19 @@
+//-----------------------------------------------------------------------------
+// Ari Iramanesh
+// airanman, 1628897
+// pa3: Sparse
+// cmps101, spring 2019
+// 
+// README
+//-----------------------------------------------------------------------------
+
+Project description: Create Matrix ADT using List ADT, and Implement
+a basic IO program using it
+
+ListClient.java - Tests List.java funcs
+List.java - Implements the List ADT funcs
+Sparse.java  - Creates IO program involving Matrix ADT
+MatrixClient.java - Tests the Matrix ADT funcs
+MatrixTest.java - Tests the Matrix ADT funcs
+README - describes the project and its files
+Makefile - compiles project

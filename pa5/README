@@ -1,0 +1,21 @@
+//-----------------------------------------------------------------------------
+// Ari Iramanesh
+// airanman, 1628897
+// pa5: Depth First Search and SSCs
+// cmps101, spring 2019
+//
+// GraphTest.c
+//-----------------------------------------------------------------------------
+proj desc: implement depth first search and a function that finds strongly connected components of a graph using DFS
+Note: the 'time' variable used in DFS is a global variable of the Graph ADT
+
+files:
+Graph.c - implements Graph.h funcs
+Graph.h - defines Graph ADT and prototypes its functions, and DFS
+List.c - implements List.h funcs
+List.h - prototypes List ADT, which is used in the Graph ADT
+GraphTest.c - tests Graph.c functionality
+FindComponents.c - finds SSC's of a graph with DFS
+Makefile - compiles project
+README - descriptions
+

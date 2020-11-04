@@ -1,0 +1,18 @@
+//-----------------------------------------------------------------------------
+// Ari Iramanesh
+// airanman, 1628897
+// pa1: Lex, List ADT
+// cmps101, spring 2019
+// 
+// README
+//-----------------------------------------------------------------------------
+
+Desc. of assignment: Create a List ADT that holds integer data values, complete
+with basic functions. We created a command line function that sorts items in 
+an input file by lexographic order and outputs to an output file.
+
+List.java - list ADT source
+ListClient.java - fixed test client
+Lex.java - lexographic sorting algorithm
+Makefile - compiles items
+README - describes items
